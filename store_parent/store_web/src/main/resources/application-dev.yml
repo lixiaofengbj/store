@@ -1,3 +1,9 @@
 server:
   port: 8768
   domian: store.cn
+#
+#security:
+#  user:
+#    name: admin
+#    password: admin
+
